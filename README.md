@@ -8,5 +8,7 @@
 utsabbasyal12/utsabbasyal12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![utsabbasyal12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=utsabbasyal12&theme=vue-dark&hide_border=true)
 ![utsabbasyal12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsabbasyal12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![utsabbasyal12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=utsabbasyal12&theme=vue-dark&hide_border=true)
+

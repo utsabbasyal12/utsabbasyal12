@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on font-end and back-end web development...
 - 📫 How to reach me- E-mail me on utsabbasyal12@gmail.com
 
-<!---
-utsabbasyal12/utsabbasyal12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![utsabbasyal12's Stats](https://github-readme-stats.vercel.app/api?username=utsabbasyal12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![utsabbasyal12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsabbasyal12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
